@@ -38,8 +38,16 @@ _Add some screens and a demo_
 
 #### Usage
 
-_Tell in steps how can we setup your application. Also mention all relevant requirements and links._
-
+1.) Extract files from Src.zip folder
+2.) Open the extracted folder inside VScode editor 
+3.) Open the Login.html file in VScode window
+4.) Run this file in live server 
+5.) It will ask username and password
+6.) Get the username and password from prashant.json file if the backend is not created
+7.) If you want to setup backend, Use the codes given in doc file named backend codes
+8.) If you want to run this without backend, then just take the username and password from the JSON file and put them in the input fields
+9.) You are done with the setup 
+10.) Thanks (This is just a prototype of the project)  
 #### Tracks used
 We are going for an open problem statement, therefore we haven't gone forward with any of the sponsor tracks for this hackathon.
 
