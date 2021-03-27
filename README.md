@@ -41,9 +41,7 @@ _Add some screens and a demo_
 _Tell in steps how can we setup your application. Also mention all relevant requirements and links._
 
 #### Tracks used
-
-_You were given several tracks to choose from in the problem statement. Tell which one did you choose and how does your
-application follow that track._
+We are going for an open problem statement, therefore we haven't gone forward with any of the sponsor tracks for this hackathon.
 
 #### AWS Services Used
 
